@@ -1,4 +1,5 @@
 mgmt_ip : 140.82.121.4
+new
 vlans:
 red:
 id: 10
